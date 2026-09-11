@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/1130420173.svg)](https://doi.org/10.5281/zenodo.22701288)
+
 This documentation describes the code that is used to evaluate the cost competitiveness 
 between solar plus battery powered mini-grids(MG) and Standalone systems (SAS) powering a 
 rural village. The code sizes for different solar PV plus battery capacity combinations that meet 
